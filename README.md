@@ -1,1 +1,3 @@
-# k6-performance-testing
+# k6 UI Performance Testing Boilerplate
+
+Instructions here.
